@@ -66,7 +66,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"Audiowide18"
+		"font"			"Audiowide36"
 		"fgcolor"		"White"
 		"xpos"			"83"
 		"ypos"			"40"
@@ -82,7 +82,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"Audiowide18"
+		"font"			"Audiowide36"
 		"fgcolor"		"Black"
 		"xpos"			"85"
 		"ypos"			"42"

@@ -2579,6 +2579,139 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
+		"AudiowideRegular16"
+		{
+			"1"
+			{
+				"name"		"Audiowide"
+				"tall"		"16"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"AudiowideRegular18"
+		{
+			"1"
+			{
+				"name"		"Audiowide"
+				"tall"		"18"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"AudiowideRegular24"
+		{
+			"1"
+			{
+				"name"		"Audiowide"
+				"tall"		"24"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"AudiowideRegular28"
+		{
+			"1"
+			{
+				"name"		"Audiowide"
+				"tall"		"28"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"AudiowideRegular32"
+		{
+			"1"
+			{
+				"name"		"Audiowide"
+				"tall"		"32"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"AudiowideRegular36"
+		{
+			"1"
+			{
+				"name"		"Audiowide"
+				"tall"		"36"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"AudiowideRegular42"
+		{
+			"1"
+			{
+				"name"		"Audiowide"
+				"tall"		"42"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"AudiowideRegular44"
+		{
+			"1"
+			{
+				"name"		"Audiowide"
+				"tall"		"44"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"AudiowideRegular48"
+		{
+			"1"
+			{
+				"name"		"Audiowide"
+				"tall"		"48"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"AudiowideRegular56"
+		{
+			"1"
+			{
+				"name"		"Audiowide"
+				"tall"		"56"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"AudiowideRegular58"
+		{
+			"1"
+			{
+				"name"		"Audiowide"
+				"tall"		"58"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"AudiowideRegular64"
+		{
+			"1"
+			{
+				"name"		"Audiowide"
+				"tall"		"64"
+				"weight"	"700"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 	}
 
 	//
